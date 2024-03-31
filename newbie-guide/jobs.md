@@ -6,7 +6,7 @@ As you start your journey on GTA:CnR, you will find players with different color
 
 When you start off your CnR journey, you will spawn as a civilian. As a civilian you can get a wanted level, rob stores, export and scrap vehicles, hunt bounties and more. This is the default job that most players use.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Mechanic - _`Level 3+`_
 
@@ -18,7 +18,7 @@ As a mechanic you share the loadout of a criminal and drug dealer. When you are 
 
 As a paramedic your blip becomes purple and you get a seperate weapon and vehicle loadout from a criminal. Your job is to respond to calls and save lifes of players in danger. You can also heal people using your ambulance. Remember that as a Paramedic you cannot help Cops in their crime fighting duties and you must not pursue anyone.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Drug Dealer - _`Level 5+`_
 
