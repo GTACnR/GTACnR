@@ -1,33 +1,35 @@
-# Jobs
+# Exploring Jobs in GTA:CnR
 
-As you start your journey on GTA:CnR, you will find players with different colors and jobs. As you level up, you gain access to different jobs which you can join by walking up to the job's NPC and switching to it. Jobs come with different uniforms, vehicles and weapons. To learn more about specific jobs, check out their Guides in the navigation bar.
+In GTA:CnR, your gameplay experience is enriched by a variety of jobs, each offering unique roles, uniforms, vehicles, and weapons. As you progress and level up, new job opportunities become available, allowing you to diversify your in-game activities and strategies. Below is an overview of the jobs you can embark on, along with their requirements and benefits.
 
-## Criminal - _`Level 0+`_
+## Starting Off: Criminal _`(Level 0+)`_
 
-When you start off your CnR journey, you will spawn as a civilian. As a civilian you can get a wanted level, rob stores, export and scrap vehicles, hunt bounties and more. This is the default job that most players use.
+**Role**: The journey begins as a civilian with the potential to engage in criminal activities. This role allows you to rob stores, export and scrap vehicles, hunt bounties, and more. It's the default starting point for most players.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+![Criminal Job Overview](../.gitbook/assets/image%20(1).png)
 
-## Mechanic - _`Level 3+`_
+## Mechanic _`(Level 3+)`_
 
-As a mechanic you share the loadout of a criminal and drug dealer. When you are a mechanic, you buy kits at the Hardware Store, modify and repair player owned cars and tow illegally parked vehicles
+**Role**: Mechanics have the skills of a criminal and drug dealer combined. Your tasks include buying kits from Hardware Stores, modifying and repairing player-owned cars, and towing illegally parked vehicles.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+![Mechanic Job Overview](../.gitbook/assets/image%20(2).png)
 
-## Paramedic - _`Level 4+`_
+## Paramedic _`(Level 4+)`_
 
-As a paramedic your blip becomes purple and you get a seperate weapon and vehicle loadout from a criminal. Your job is to respond to calls and save lifes of players in danger. You can also heal people using your ambulance. Remember that as a Paramedic you cannot help Cops in their crime fighting duties and you must not pursue anyone.
+**Role**: As a paramedic, your mission is to save lives. You'll respond to emergency calls, heal players using your ambulance, and have access to a unique set of weapons and vehicles. Note that paramedics must remain neutral and cannot assist cops in crime-fighting efforts.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+![Paramedic Job Overview](../.gitbook/assets/image%20(1)%20(1).png)
 
-## Drug Dealer - _`Level 5+`_
+## Drug Dealer _`(Level 5+)`_
 
-As a drug dealer you share the same loadout as in the criminal/mechanic job. You buy drugs at drug suppliers and then sell them at one of the Drug Spots marked on the map. Grove St. is a good place to sell heroin, while Mirror Park is a good place to sell cocaine. Discover your options and don't get caught, cops can confiscate your expensive drugs when they search you!
+**Role**: Drug dealers operate in the shadows, purchasing drugs from suppliers and selling them at strategic locations on the map. Key spots for trade include Grove St. for heroin and Mirror Park for cocaine. While lucrative, this job carries the risk of police intervention.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+![Drug Dealer Job Overview](../.gitbook/assets/image%20(3).png)
 
-## Police Officer - _`Level 7+`_
+## Police Officer _`(Level 7+)`_
 
-As a cop you have a separate loadout and vehicles from other jobs. You can chase and arrest criminals. Respond to calls and assist in arrests. Take down red criminals with bounties and get rich by accepting bribes from players or taking their contraband.
+**Role**: Police officers enforce the law, chasing and arresting criminals, responding to calls, and aiding in arrests. They also profit from capturing most wanted criminals, accepting bribes, and confiscating contraband.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+![Police Officer Job Overview](../.gitbook/assets/image%20(4).png)
+
+For more detailed information on each job, including specific strategies and tips, check out the Guides section in the navigation bar.
