@@ -1,11 +1,26 @@
-# Online List
+# Navigating the Online Player List
 
+The online player list is an essential tool for seeing who's in the game, understanding their roles, and gauging their experience and connection quality. Here's how to access and navigate this list effectively:
 
+## Accessing the List
 
-Hold the 'Z' or d-pad down key. While holding Z, you can use the 'PG UP' and 'PG DOWN' or use your middle mouse scroll button to venture through the list of players.
+- **Open the List**: Hold the `Z` key or press down on the d-pad. This action brings up the online player list.
+- **Navigate the List**: While holding `Z`, use the `PG UP` and `PG DOWN` keys or the middle mouse scroll button to move through the list of players.
 
-The list will show the players ID, Username, Job, Total XP, Their level (listed as level), and thier PING (latency).
+## Understanding List Details
 
-Note: Criminals will appear as "None" under jobs.
+The list provides a snapshot of vital information about each player:
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+- **Player ID**: Unique identifier for each player in the session.
+- **Username**: The chosen name of the player.
+- **Job**: The current role or job of the player. (Note: Criminals are listed as "None" under jobs.)
+- **Total XP**: The accumulated experience points of the player.
+- **Level**: The current level of the player, indicative of their progress in the game.
+- **PING (Latency)**: A measure of the player's connection speed to the game server.
+
+![Online Player List Example](../.gitbook/assets/image%20(7).png)
+
+{% hint style="info" %}
+This list is a powerful tool for quickly assessing the composition of players in your game, allowing for strategic planning and interaction.
+{% endhint %}
+
