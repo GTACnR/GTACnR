@@ -1,20 +1,42 @@
-# How to earn Bank
+# Earning Bank: Strategies for Financial Growth
 
-Daily Check!
+Enhancing your bank balance is a vital aspect of the game, offering you the resources needed to thrive and progress. Here are diversified ways to earn money, catering to different roles and play styles.
 
-Everyone on the server will recieve a daily check from the server for playing. This is given once an in-game day at 12:00PM (Noon). This will be sent to your bank account. Amount varies on what role you are playing as on the server.
+## Daily Check-In Reward
 
-Complete tasks for your role
+- **Time of Receipt**: Every in-game day at 12:00 PM (Noon).
+- **Method**: Automatically deposited into your bank account.
+- **Amount**: Varies depending on the role you are playing on the server.
 
-Criminals (default role) earn money by robbing AI peds and shops, stealing cars and exporting or scraping them, killing most wanted players for bounties or by hacking ATMs. Police Officers earn money by arresting players, bribing players, or killing most wanted players. Paramedics earn money by reviving players and healing players. Drug Dealers earn money by selling drugs.
+## Role-Specific Tasks
 
-Lottery tickets
+### Criminals (Default Role)
+- **Activities**: Engage in robbing AI pedestrians and shops, stealing cars for export or scrap, eliminating most wanted players for bounties, and hacking ATMs.
 
-You can purchase scratch lottery tickets (available at LTD or 24/7 shops around the map - shown as 'Gas Station' or 'Convenience Store'). While it may be obvious, please be aware that winning is based on chance and you are not guaranteed to win it big!
+### Police Officers
+- **Activities**: Earn through arresting players, accepting bribes, or neutralizing most wanted players.
 
-WARNING! Gambling can be addictive.
+### Paramedics
+- **Activities**: Generate income by reviving and healing players.
 
-To use the card, Press 'M' or left circle button for inventory and go under 'Gambling'. Select the card you want.
+### Drug Dealers
+- **Activities**: Profit from selling drugs to other players.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+## Lottery Tickets
+
+- **Purchase Locations**: Available at LTD or 24/7 shops across the map, indicated as 'Gas Station' or 'Convenience Store'.
+- **Gameplay Note**: Remember, lottery wins are based on chance, and success is not guaranteed.
+
+  ![Instructions on using a lottery scratch card](../.gitbook/assets/image.png)
+
+### To Use a Lottery Card
+
+1. Press `M` or the left circle button to access your inventory.
+2. Navigate to the `Gambling` section.
+3. Select the lottery card you wish to use.
+
+{% hint style="danger" %}
+**WARNING**: Gambling can be highly addictive. Engage responsibly and be aware of the risks involved.
+{% endhint %}
+
 
